@@ -1,8 +1,6 @@
-Of course! Here's a clean and professional `profile.md` you can use for your GitHub profile homepage:
 
----
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Abhyuday!
 
 Welcome to my GitHub!  
 I'm passionate about building simple, impactful tools that make life easier, especially around trading, automation, and connecting people. 🚀
@@ -36,6 +34,3 @@ Here are some of my latest projects:
 Thanks for visiting!  
 Feel free to explore my work and reach out if you want to collaborate. ✨
 
----
-
-Would you also like me to make a slightly more "fun" or "minimal" version depending on your vibe? 🎯
