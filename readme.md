@@ -16,6 +16,13 @@ Here are some of my latest projects:
 
 ---
 
+## 💰 Tip Anyone Bot
+- **Description:**  
+  Tip anyone on Telegram with SOL — just mention their @username in chat, and let them claim it!
+- **Link:** [Use it here](https://t.me/TipSolanaBot)
+
+---
+
 ## 📦 What's in Mess Bot
 - **Description:**  
   Ever opened your Telegram "Saved Messages" and got lost?  
