@@ -1,43 +1,57 @@
-
-
 # 👋 Hi, I'm Abhyuday!
 
 Welcome to my GitHub!  
-I'm passionate about building simple, impactful tools that make life easier, especially around trading, automation, and connecting people. 🚀
+I'm passionate about building **simple, impactful tools** that make life easier — especially around trading, automation, and connecting people. 🚀
 
-Here are some of my latest projects:
-
----
-
-## 🪙 Solana Paper Trading Bot
-- **Description:**  
-  A Telegram bot that lets you paper trade Solana memecoins using real-time data — perfect for practicing without risking real money.
-- **Link:** [Use it here](https://t.me/PaperTradingSolanaBot)
+Here are some of my recent projects:
 
 ---
 
-## 💰 Tip Anyone Bot
-- **Description:**  
-  Tip anyone on Telegram with SOL — just mention their @username in chat, and let them claim it!
-- **Link:** [Use it here](https://t.me/TipSolanaBot)
+## 🪙 Solana Paper Trading Bot  
+**Practice trading memecoins risk-free.**  
+A Telegram bot for paper trading Solana memecoins using real-time data — perfect for honing your skills without risking real SOL.  
+🔗 [Try it here](https://t.me/PaperTradingSolanaBot)
 
 ---
 
-## 📦 What's in Mess Bot
-- **Description:**  
-  Ever opened your Telegram "Saved Messages" and got lost?  
-  This bot helps you **organize and search** your saved messages more easily!
-- **Link:** [Try it out](https://t.me/WhatsInMessBot)
+## 💰 Tip Anyone Bot  
+**Send SOL to anyone on Telegram.**  
+Just mention their `@username` in a group chat, and they can claim your tip instantly.  
+🔗 [Use it here](https://t.me/TipSolanaBot)
+
 
 ---
 
-## 📚 Assignment Bazaar (Under Maintenance)
-- **Description:**  
-  A platform to **connect with students** who can help you write your assignments — you can exchange rupees 💸 or even a date ☕ for their help.
-- **Status:** Under Maintenance 🚧
+## 🔁 P2P Trading Bot  
+**Convert your crypto into fiat easily — secured by escrow.**  
+A peer-to-peer Telegram bot that helps users trade crypto safely using automated payment verification and escrow release.  
+🔗 [Try it out](https://t.me/BuyBitP2Pbot)
 
 ---
 
-Thanks for visiting!  
-Feel free to explore my work and reach out if you want to collaborate. ✨
+## 🧠 AI Sports Prediction Bot  
+**Bet smart with AI-powered predictions.**  
+Get real-time sports picks and underdog alerts — powered by Grok 4 AI — for smarter, data-driven bets.  
+🔗 Coming Soon
 
+---
+
+## 🛍️ Solana Storefront Bot  
+**Sell and buy digital products using Solana tokens.**  
+A Web3-powered Telegram store where you can list, discover, and purchase digital goods with SPL tokens.  
+🔗 [Try it out](https://t.me/TeenBucksBot)
+
+---
+
+
+## 📦 What's in Mess Bot  
+**Tidy up your Telegram Saved Messages.**  
+Search, organize, and rediscover everything you’ve ever saved — without scrolling endlessly.  
+🔗 [Try it out](https://t.me/WhatsInMessBot)
+
+---
+
+
+
+Thanks for stopping by!  
+Feel free to explore my work — and if you want to collaborate, just reach out. ✨
