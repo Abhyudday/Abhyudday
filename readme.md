@@ -45,8 +45,8 @@ A Web3-powered Telegram store where you can list, discover, and purchase digital
 
 
 ## 📦 What's in Mess Bot  
-**Tidy up your Telegram Saved Messages.**  
-Search, organize, and rediscover everything you’ve ever saved — without scrolling endlessly.  
+**All Mess Information at your finger tips**  
+Mess Menu, Timing, automated updates. All that in your telegram app.
 🔗 [Try it out](https://t.me/WhatsInMessBot)
 
 ---
