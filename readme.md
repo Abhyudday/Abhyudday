@@ -7,6 +7,20 @@ Here are some of my recent projects:
 
 ---
 
+## 🎯 PumpFund 
+**Invest in solana memecoin funds**  
+PumpFunds lets you invest in curated Solana “Funds” that mirror elite wallets in real time, your wallet auto-executes their buys and sells in sub-seconds.
+🔗 [Try it here](http://pumpfund.online/)
+
+---
+
+## 💳 Soltap
+**Use your smart phones as Solana Card.**  
+NFC-powered Solana payments—just tap, confirm, done. Built for speed, safety, and everyday use. 
+🔗 [Try it here](https://github.com/Abhyudday/SolTap)
+
+---
+
 ## 🪙 Solana Paper Trading Bot  
 **Practice trading memecoins risk-free.**  
 A Telegram bot for paper trading Solana memecoins using real-time data — perfect for honing your skills without risking real SOL.  
